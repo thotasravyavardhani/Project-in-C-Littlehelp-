@@ -45,7 +45,7 @@ Note:_________________________ only give new username or passwd while Register d
                     4. ADDRESS of that Blood bank
                     5. EMAIL ADDRESS of that Blood bank
                     6. PHONE NUMBER of that blood bank
------------------------------------------------------------------------------------------------------------------------------------------------
+
 2. Health Risk Assessment: $$$$$$$$ Data the user enter here stored in file- user_data.txt $$$$$$$$$$$
           In this Assessment From user we will take some of his health details like
                             1. Name
@@ -64,7 +64,7 @@ Note:_________________________ only give new username or passwd while Register d
                             14. Gender
          -> And finally we will display his health Risk % - Risk Score
          -> based on that we will inform him to consult doctor or health checkup or he is healthy
-   ------------------------------------------------------------------------------------------------------------------------------------------------
+ 
    3. Eligibility for blood transmiision :
          In this we will take ----> Donar Blood Group
                               ----> recepient(receiver) Blood Group
@@ -83,7 +83,7 @@ Note:_________________________ only give new username or passwd while Register d
 	        |    AB-    |    AB-,AB+     | O-,AB-,A-,B-|
 	        |    AB+    |   B+,AB+       |     ALL     |
           --------------------------------------------
-      ---------------------------------------------------------------------------------------------------------------------------------------------------
+      
       4.  Baby bloodgroup Predictor :
                           This is based on  " Landsteiner Theory "....
                          -> We will take ------ Father Blood Group
@@ -93,18 +93,18 @@ Note:_________________________ only give new username or passwd while Register d
                            +________________________________________________________+
 	                       F |   Blood   |     O     |     A    |     B    |     AB   |
 	                       a |-----------|-----------|----------|----------|----------|
-                         t |    O      |     O     |  A or O  |  B or O  |  A or B  |
+                               t |    O      |     O     |  A or O  |  B or O  |  A or B  |
                  	       h |    A      |   A or O  |  A or O  | AB, A, B | AB, A, B |
 	                       e |    B      |   B or O  | AB,A,B,O |  B or O  | AB, A, B |
 	                       r |    AB     |   A or B  | AB, A, B | AB, A, B | AB, A, B |
 	                         +--------------------------------------------------------+
-          --------------------------------------------------------------------------------------------------------------------------------------------------
+        
       5. Eligibility to Donate Blood :
              -> This takes some User Health and Personal matters
              like ... 1. Any Thyroid, Malaria, Aids
                       2. Past Tattoos..
                       3. Rescent already given blood
          ................. and so on
-         ----------------------------------------------------------------------------------------------------------------------------------------------------
+        
       6. Exit : To exit from Output Console or Window -------------
-         -----------------------------------------------------------------------------------------------------------------------------------------------------
+        
