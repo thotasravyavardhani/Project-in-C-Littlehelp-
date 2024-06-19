@@ -1,0 +1,16 @@
+Name: sudheer
+Age: 46
+BMI: 89.00
+Smoker: n
+Exercise: n
+Diet: unhealthy
+Stress: moderate
+Sleep: good
+Alcohol: none
+Family History: y
+Hypertension: n
+Diabetes: n
+Physical Activity:  çµãû
+Gender: male
+Risk Score: 10
+
